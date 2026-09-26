@@ -10,7 +10,7 @@ AFINADOR
   <summary>Instalacion</summary>
 
 [Afinador](
-https://kevinreyes-garcia-rgb.github.io/afinador-V3/
+https://zorrita-prog.github.io/Afinador/
 )
   
 </details>
